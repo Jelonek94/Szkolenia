@@ -1,0 +1,14 @@
+my sql work bench
+
+ma odzwierciedalæ baze danych pracy domowej
+zgrubny skrypt 3 tygodnie
+czyœcimy bazê, potem tworzycie
+w oparciu o skrypt z repo
+
+
+
+findView by id jest droga
+Jake Warton
+butterlife przeczytaæ co robi i w ekranie logowania zastosowaæ go tak, ¿eby usprawniæ obs³ugê.
+
+Napisaæ ekran logowania.
